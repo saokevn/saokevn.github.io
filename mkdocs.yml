@@ -1,11 +1,11 @@
-site_name: "MKDOCS TEMPLATE BY HAIHA"
+site_name: "SAO KE VIET NAM"
 docs_dir: ./docs/ObsidianVault/
-site_url: https://mkdocstemplate.github.io/
+site_url: https://saokevn.github.io/
 
-site_description: MKDOCS TEMPLATE BY HAIHA
+site_description: SAO KE HN
 site_author: haihabk51
 
-repo_url: https://github.com/mkdocstemplate/mkdocstemplate.github.io/
+repo_url: https://github.com/saokevn/saokevn.github.io/
 
 
 theme:
